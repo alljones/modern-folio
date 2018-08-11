@@ -1,2 +1,2 @@
-# modern-folio
-Updated Look
+# Allan Jones - Web Developer | UX Designer
+Updating Portfolio look.
