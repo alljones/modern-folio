@@ -124,6 +124,10 @@ h1, h2, h3 {
     padding: 0.4rem 1rem;
     background: rgba(39, 39, 39, 0.5); }
 
+h6 {
+  text-transform: uppercase;
+  letter-spacing: .1rem; }
+
 a {
   color: #fff;
   text-decoration: none; }
